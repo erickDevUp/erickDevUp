@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erickDevUp
-- 👀 I’m interested in learn web dev an IA
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in learn web dev and IA
+- 🌱 I’m currently use ReactJs
 - 📫 How to reach me 
 - 
 
