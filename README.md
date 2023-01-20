@@ -26,5 +26,5 @@ Frontend Web Developer React/Next Js
 
 ## Tech Stack
 
-![App Screenshot](https://upload-free2.herokuapp.com/dl/74927/Screenshot%202022-07-23%20at%2003-26-05%20erickDevUP.png)
+![image](https://user-images.githubusercontent.com/104710949/213621831-e713eb81-9bf6-48d4-8ac5-166194ea4424.png)
 
