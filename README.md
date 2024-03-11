@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/erickdevup">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;ReactJs%20|%20NextJs;Mobile+Developer;React-Native&center=true&width=380&height=45">
 	</a>
 </p>
@@ -22,7 +22,7 @@
 
 🌱 I started programming at 17 as a hobby<br>
 
-😄 I build in public my projects on twitter currently <a href="https://maptodev.vercel.app">mapToDev</a><br>
+😄 I build in public my projects on twitter currently <a href="https://maptodev.vercel.app" target="_blank">mapToDev</a><br>
 
 
 
