@@ -22,7 +22,7 @@
 
 🌱 I started programming at 17 as a hobby<br>
 
-😄 I build in public my projects on twitter currently maptodev.vercel.app<br>
+😄 I build in public my projects on twitter currently <a href="https://maptodev.vercel.app">mapToDev</a><br>
 
 
 
